@@ -1,7 +1,7 @@
 package com.task.restapi.entity;
 
 
-//import javax.persistence.*;
+
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
